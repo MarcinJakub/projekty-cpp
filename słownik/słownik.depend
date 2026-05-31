@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1684665231 source:c:\users\acer rtx\documents\programowanie\c++\s³ownik\main.cpp
+	<iostream>
+	<list>
+	<string>
+	<vector>
+	<map>
+

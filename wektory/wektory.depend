@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683894223 source:c:\users\acer rtx\documents\programowanie\c++\wektory\main.cpp
+	<iostream>
+	<vector>
+	<string>
+
