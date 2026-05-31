@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1687194098 source:c:\users\acer rtx\documents\programowanie\c++\vector-of-shared-pointers\main.cpp
+	<iostream>
+	<vector>
+	<memory>
+
